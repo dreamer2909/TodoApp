@@ -25,8 +25,7 @@
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
     "node-html-parser": "^6.1.5",
-    "react-native-webview": "11.26.0",
-    "react-native-calendars": "^1.1297.0"
+    "react-native-webview": "11.26.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

@@ -78,7 +78,7 @@ export default function TodoScreen({navigation}) {
             height: "10%",
           }}
         >
-          <AntDesign name="calendar" size={26} color="white" />
+          <AntDesign  name="calendar" size={26} color="white" />
         </View>
         <View style={{ width: "85%", height: "38%", justifyContent: "center" }}>
           <View
